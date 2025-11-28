@@ -1,2 +1,2 @@
-console.log('Bienvenid@');
-alert('Gracias por visitar mi pagina');
+console.log('Bienvenidos');
+alert('Hola...Soy Pepito');
